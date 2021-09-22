@@ -1,0 +1,10 @@
+<launch>
+
+  <include file="$(find f1tenth_simulator)/launch/simulator.launch" />
+
+  <node pkg="wu0002ie_lab3" type="wall_follow.py" name="wall_follow" />
+  <!--
+  <node pkg="rosbag" type="record" name="recording" output="screen" args="-a -o /home/$(env USER)/wu0002ie_ws/src/wu0002ie_lab1/bags/" />
+  -->
+
+</launch>
