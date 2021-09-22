@@ -1,3 +1,5 @@
 # Lab 3 Submission
 
-![Video](https://github.com/Jayden9912/F1tenth_lab/blob/main/lab3/attempt_2.mp4)
+
+https://user-images.githubusercontent.com/85933053/134311260-14159808-457c-45aa-9b97-011d280493da.mp4
+
