@@ -1,3 +1,3 @@
-#Lab 3 Submission
+# Lab 3 Submission
 
 ![Video]
